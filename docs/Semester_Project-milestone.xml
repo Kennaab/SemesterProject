@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--1st page-->
+<!-- Should mark-up the text in the middle of the page:--> 
+<!--The top right of the page "AUTHOR'S COPY": --> 
+<!-- Handwritten note at the bottom of the first page: -->
+
+<!--2nd page-->
+<!-- Recognize Characters: -->
+<xml>
+                                <p>CHARACTERS</p>
+                        <p>(In order of appearance)</p>
+<castGroup rend="braced">
+    <castItem>
+        <role>Representatives in Congress during Reconstruction</role>
+        <actors>
+        Frederick Doughlass
+        Jefferson P. Lono
+        Joseph H. Rainey
+        Robert O. DeLARGE    
+        Alonzo J. Rainer
+        Robert B. Elliot 
+        </actors>
+    </castItem>
+    <castItem>
+        <role>Senators<date>1879-1881</date></role>
+        <actors>
+            <!--hard to read names-->
+        </actors>
+    </castItem>
+    <castItem>
+        <role>Represenatatives<date>1883-1897</date></role>
+        <actors>
+            JOHN M. LANGSTON
+            THOMAS E. MILLER
+            GEORGE W. MURRAY
+            JAMES E. O`HARA
+            HENRY Y. OHEATHAM
+            GEORGE H. WHITE
+            BOOKER T. WASHINGTON
+        </actors>
+    </castItem>
+</castGroup>
+<!--The right side of the page has an address & date-->
+<note>NOTE: Speaking parts are marked with asterikes.** All except Sojurner Truth may read speeches from rostrum, and even she may read her long speech, but should learn rest of dialogue. Fraunces has only one line. "And I voted."</note>
+
+<!-- 3rd page -->
+                    <heading>THE BALLOT AND ME</heading>
+<setting>A rostrum</setting>
+<time>The present, with flashbacks</time>
+<action>A Narrator comes to the rostrum and shouts four words very loudy as if opening a Town Meeting.</action>
+<p>
+   NARRATOR: Ballot!
+             Sufferage!
+             Franchise!
+             Vote!
+             <!-- right of page words -->
+</p>
+<p>
+   (NARRATOR BANGS HIS GAVEL)
+    The dictionary says:
+    <Definition Ballot="underlined">"Ballot---the method of secret voting; 
+        orgininally means of mall balls placed in an urn or box."</Definition>  
+    <Definition Sufferage="underlined">"Suffrage---a vote given by a member of
+        a body, state, or society, in assent to a propostion or in favor of the
+        election of a person."</Definition>
+    <Definition Franchise="underlined">"Franchise---the right of voting at
+        public elections."</Definition>
+    <Definition Vote="underlined">"Vote---an intimation that one approve or
+        disapproves, accepts or rejects, a proposal, motion, candidate for
+        office, or the like."</Definition>
+</p>
+    <Narrator>NARRATOR (cont'd):<p>The right to cast a bllot, to exercise suffarage, to vote is one of the basic
+rights of citizens in a democracy--a democracy,
+that form of government in which control is
+vested in the people as a whole. The ballot 
+is basic</p>
+<p>Negro Americans---you, me---are very much a
+part of this democracy. We're 15 million---
+and our vote counts. From the national to
+the local level <word your="underlined">your</word> vote counts. It counts
+in more and better jobs---in diplomatic posts
+abroad to local political patronage.
+It counts in education, housing, in civil
+rights, in cleaner streets, in better garbage
+collection. The vote has value.
+Don't neglect your right to vote. Don't waste it.
+Don't forget it.</p>
+<p>Maybe all of us would value the right of
+sufferage more if we stopped to look back a
+moment at what the struggle for the vote has
+cost. Back in the Middle Ages few people
+had control over their own lives, let alone
+over the land or the country. Kings and
+barons and chiefs and over-lords ran every-
+thing and everybody. Then came the Magna Carta 
+in <date>1215</date>in<country>England,</country>and almost 400</p></Narrator>
+    <!--5th page-->
+    <Narrator>NARRATOR (cont'd): <p>years later the Bill of Rights, many of whose provisions were incorporated into
+our own Consitution in <date>1787</date>and into the
+American Bill of Rights in <date>1791</date> Some of
+those rights, we, the Negro people of America,
+are still trying to secure in full.</p>
+<p>We came to these shores first as explorers--- 
+with Cortez, with Balboa, with Columbus. But 
+we did not migrate in large numbers. The
+majority of our ancestors were brought to the
+Americas by force as slaves, dating from <date>1619.</date>
+Slaves, like serfs in Europe, could not vote.
+But very early in our history, after the 
+colonies won their freedom from the British---
+Crispus Attucks of Boston, a Negro, being
+the first man killed when resistance to the
+Brith started--free Negroes in the New
+England colonies voted. Some Negroes in our
+country have always voted from the very be-
+ginning of our United States, and fought
+to keep the vote and extend it to others.
+But sometimes it was a hard battle. You who
+have the vote here in New York, keep it, use
+it, and help others to get it.
+After the Revolutinary War, free Negroes
+could vote anywhere, but in <date>1789</date>the Southern
+salve-holding states sensed danger in letting
+free Negroes vote, and began to disfranchise
+them. By <date>1834</date>no Negroes could vote in the  
+</p></Narrator>
+<p>
+<Narrator>NARRATOR (cont'd): <p>South, and some Northern states like Penn-
+sylvania and Indiana denied them the ballot,
+too. But colored men in <state>New York</state>could
+vote if they own property and had lived
+here for three years. This man could vote. </p></Narrator>
+</p>
+    <actorName>FRAUNCES: And I <handNotes>
+        <handNote medium="black-ink">could</handNote></handNotes>vote.--- </actorName> <!--include the handwritten correction here-->
+
+
+</xml>
+
+
+
+
+
+

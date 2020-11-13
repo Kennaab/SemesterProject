@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../Documents/GitHub/BallotandMe/docs/playSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <head>
+        <title>Langston Hughes, pages 13-17</title>
+        <editor>McKenna Ballew</editor>
+    </head>
+    <body>
+    <div1>
+        <!--PAGE 13-->
+        <sp>
+    <speaker>NARRATOR (ctd)</speaker>
+<dialogue>
+    <p><lb/><insert hand="LH">He was</insert>a friend of Presidents. That man was the great founder of
+        <lb/>Tuskegee Institute, Book T. Washington.</p>
+</dialogue>
+        </sp>
+            <stage type="enter">
+                <lb/>(ENTER WASHINGTON)
+            </stage>
+        <sp>
+   <speaker>WASHINTON:</speaker>
+           <dialogue>
+            <p>
+               <lb/>Friends, the individual<insert hand="LH">or</insert> race that owns the property, pays the
+               <lb/>taxes, possesses the intelligence and substantial character, is
+               <lb/>the one which is going to exercise the greatest control in
+               <lb/>government, whether he lives in the North or whether he lives in
+               <lb/>the South. There is no defense or security for any of us except
+               <lb/>in the highest intelligence and development of all. Education must
+               <lb/>be digested and assimilated in order to make it significant. The
+               <lb/>science, the art, the literature that fails to reach down and bring
+               <lb/>the humblest . up to the enjoyment of the fullest blessings of our
+               <lb/>government is weak, no matter how costly the buildings or apparatus
+               <lb/>used, or how modern the methods of instruction employed. The study
+               <lb/>of arithmetic that does not result in making men conscientious in
+               <lb/>receiving and counting the ballots of their fellow men is faulty.
+            </p>
+           </dialogue>
+        </sp>
+        <sp>
+            <speaker>NARRATOR:</speaker>
+            <dialogue>
+                <p>
+                    <lb/>Unfortunately, the unreconstructed rebels of the South continued to
+                    <lb/>deny the rights to vote, or failed to count, the ballots of Negro
+                    <lb/>citizens at the turn of the century. When Charles H. White left
+                    <lb/>Congress in 1901, it was more than a quarter of a century before we
+                    <lb/>had there another national representative. In 1928 Oscar DePriest
+                    <lb/>was elected to Congress from the First Illinois District -- being
+                    <lb/>the first Northern Negro over to sit in the national legislature. 
+                    <lb/>As the great migrations from the South increased after each war,
+                    <lb/>and the black populations of our Northern industrial cities grew,
+                    <lb/>so Negro political power grew. Manicipal judges, city councilmen,
+                    <lb/>county officials,  and state legislators of color from New York to
+                    <lb/>Los Angeles became not uncommon. From Illinois, Arthur W. Michell
+                </p>
+            </dialogue>
+        </sp>
+        </div1>
+        <!--PAGE 14-->
+        <div1>
+        <sp>
+            <speaker>NARRATOR (ctd.)</speaker>
+            <dialogue>
+                <p>
+                    <lb/>FOLLOWED De Priest to Congress, then came William L. Dawson
+                    <lb/>serving now. From New York Adam Clayton Powell, Jr. was elected
+                    <lb/>in 1945, and most recently<insert hand="LH">Charles C</insert>Diggs of Detroit became the 27th man
+                    <lb/>of color to sit in Congresss. There should be more -- more
+                    <lb/>Powells, Dawsons, and Diggses in Washington. More <insert hand="LH">James</insert>Watsons and
+                    <lb/>Bessie Buchanans in state governments<insert hand="LH">as in New York.</insert>More Hulan Jacks in more
+                    <lb/>American city halls<insert hand="LH">as in Manhantton</insert>and more judges such as Hivers, Paige, Stevens,
+                    <lb/>Dickens and JaneBolin on the benches of municipalities across the
+                    <lb/>nation. And we all -- you, me -- must use our vote wisely and
+                    <lb/>use it well to elect to all sorts of offices, particularly the
+                    <lb/>national officies, men who will bring to bear<insert hand="LH">our democratic forces</insert>on all public officials
+                    <lb/>to not only open up -- but to <underline>protect</underline>u --
+                    <lb/>the ballow boxes of the South -- so that Negro citizens may
+                    <lb/>vote in Mississippi and Georgia and Alabama and South Carolina
+                    <lb/>again -- and again sent to Congress <underline>from the South</underline> black men --
+                </p>
+            </dialogue>
+        </sp>
+        <stage type="action">
+            <lb/>(A WOMAN CRIES FROM THE AUDIENCE)
+        </stage>
+            <sp>
+                <speaker>SOJOURNER:</speaker>
+                <dialogue>
+                    <p>
+                     <lb/>And black women?
+                    </p>
+                </dialogue>
+             </sp>
+            <stage type="action">
+                <lb/>(SOJURNER TRUTH RISES AND JOINS THE OTHERS ON THE
+                <lb/>PLATFORM)
+            </stage>
+            
+        </div1>
+    </body>
+ </root>
